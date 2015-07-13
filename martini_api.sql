@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.5.25a, for osx10.8 (i386)
 --
--- Host: localhost    Database: grape_vs_martini_api
+-- Host: localhost    Database: martini_api
 -- ------------------------------------------------------
 -- Server version	5.5.25a
 
